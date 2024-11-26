@@ -1,6 +1,3 @@
-// Names: Weiwen Chen
-// x500s: Chen6704
-
 import java.util.Random;
 import java.util.Scanner;
 
